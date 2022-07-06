@@ -1,7 +1,8 @@
+### Hi! Marcos Kunyosi here!   <a href="https://www.linkedin.com/in/mkunyosi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
 
-[\(algo aqui\)](https://qualquer_coisa)
-### Hi, Marcos Kunyosi here! 👋   <a href="https://www.linkedin.com/in/mkunyosi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
+At this page you can find some projects that I am developing in the Data Science area. Data exploration, data visualization, and machine learning are some matters that I am applying in solutions for problems such as advising product strategy and predicting behavior.
 
+Enjoy exploring my codes and let me know your thoughts about my job.
 
 ## ![Profile view counter ](https://komarev.com/ghpvc/?username=mkunyosi&color=blue&style=for-the-badge)
  
