@@ -8,7 +8,7 @@ Enjoy exploring my codes and let me know your thoughts about my job.
  
 
 
-## My background education
+## My education background
 
 * 📚 MBA Data Science Student - Faculdade Método São Paulo
 * 🎓 Master in Business Administration (IT Strategy) - Fundação Getúlio Vargas
@@ -16,17 +16,13 @@ Enjoy exploring my codes and let me know your thoughts about my job.
 * 🎓 Especialist in Software Engineering - Universidade de Campinas 
 * 👩‍🎓 Bachelor in Computer Science - Univsersidade de São Paulo
 
-* 🔩 I am currently looking for a job opportunity related to Data Science
-
-
 ## Skills 👩‍💻
 
 * 🐍 Python
 * 🧮 Power BI
-* 📈 Excel
+* 📈 Excel + VBA
 * 📊 Data Visualization
-* 🔮 Machine Learning - Novice
-
+* 🔮 Machine Learning
 
 ## Find me around the world :earth_americas:
 
