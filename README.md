@@ -1,4 +1,5 @@
 
+[\(algo aqui\)](https://qualquer_coisa)
 ### Hi, Marcos Kunyosi here! 👋   <a href="https://www.linkedin.com/in/mkunyosi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
@@ -16,7 +17,7 @@
 * 🎓 Especilization in Software Engineering - Universidade de Campinas 
 * 👩‍🎓 Bachelor in Computer Science - Univsersidade de São Paulo
 
-* 🔩 I am currently looking for a new job
+* 🔩 I am currently looking for a job opportunity related to Data Science
 
 
 ## Skills 👩‍💻
@@ -34,15 +35,15 @@
 
 
 
-## **My projects**
+## **My projects related to Data Science**
 
 * A Regression Model: 2nd place in the 8th FLAI Machine Learning Competition: [Employee Churn](https://github.com/mkunyosi/FLAI/tree/learning/DDS8)
 * A Classification Model: 3rd place in the 9th FLAI Machine Learning Competition: [Demand Planning](https://github.com/mkunyosi/FLAI/tree/learning/DDS9)
 * A Regression Model: 4th place in the 6th FLAI Machine Learning Competition: [Employee Churn](https://github.com/mkunyosi/FLAI/tree/learning/DDS6)
 
-* Google Appls Analisys - Dashboard: 4th place in the 2nd FLAI Visualization Competition: [Dashboard](https://bit.ly/3yGXynV) - [Presentation - video](https://bit.ly/3bMBaCl)
+* Google Appls Analisys - Dashboard: 4th place in the 2nd FLAI Visualization Competition: [Dashboard](https://bit.ly/3yGXynV) - [\(*Video presentation*\)](https://bit.ly/3bMBaCl)
  
- <br>
+ <br/>
 
 *This page was initially created in 2022, July.*
 
