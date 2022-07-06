@@ -1,6 +1,6 @@
 ### Hi! Marcos Kunyosi here!   <a href="https://www.linkedin.com/in/mkunyosi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
 
-At this page you can find some projects that I am developing in the Data Science area. Data exploration, data visualization, and machine learning are some matters that I am applying in solutions for problems such as advising product strategy and predicting behavior.
+I am a data science enthusiast improving my knowledges each new day. At this page you can find some projects that I am developing in the Data Science area. Data exploration, data visualization, and machine learning are some matters that I am applying in solutions for problems such as advising product strategy and predicting behavior.
 
 Enjoy exploring my codes and let me know your thoughts about my job.
 
@@ -8,14 +8,12 @@ Enjoy exploring my codes and let me know your thoughts about my job.
  
 
 
-## Who am I? 
+## My background education
 
-
-* 👩‍💻 Data Analyst Enthusiat 
-* 📚 Data Science MBA Candidate - Faculdade Método São Paulo
-* 🎓 MBA IT Strategy - Fundação Getúlio Vargas
-* 🎓 MSc in Eletrical Engineering/Computer Science - Universidade Presbiteriana Mackenzie
-* 🎓 Especilization in Software Engineering - Universidade de Campinas 
+* 📚 MBA Data Science Student - Faculdade Método São Paulo
+* 🎓 Master in Business Administration (IT Strategy) - Fundação Getúlio Vargas
+* 🎓 Master in Eletrical Engineering/Computer Science - Universidade Presbiteriana Mackenzie
+* 🎓 Especialist in Software Engineering - Universidade de Campinas 
 * 👩‍🎓 Bachelor in Computer Science - Univsersidade de São Paulo
 
 * 🔩 I am currently looking for a job opportunity related to Data Science
