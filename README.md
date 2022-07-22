@@ -10,7 +10,7 @@ Enjoy exploring my codes and let me know your thoughts about my job.
 
 ## My education background
 
-* 📚 MBA Data Science Student - Faculdade Método São Paulo
+* 📚 MBA Data Science Student - Faculdade Método São Paulo (in progresss)
 * 🎓 Master in Business Administration (IT Strategy) - Fundação Getúlio Vargas
 * 🎓 Master in Eletrical Engineering/Computer Science - Universidade Presbiteriana Mackenzie
 * 🎓 Especialist in Software Engineering - Universidade de Campinas 
